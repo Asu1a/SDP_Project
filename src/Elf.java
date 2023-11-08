@@ -10,7 +10,5 @@ public class Elf extends Characters{
     void display() {
         System.out.println("I am an elf");
     }
-    public void update(){
-        System.out.println("Troll updated");
-    }
+
 }

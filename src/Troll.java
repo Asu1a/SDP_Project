@@ -10,8 +10,5 @@ public class Troll extends Characters{
     void display() {
         System.out.println("I am Troll");
     }
-    @Override
-    public void update(){
-        System.out.println("Troll updated");
-    }
+
 }

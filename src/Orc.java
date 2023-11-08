@@ -11,5 +11,4 @@ public class Orc extends Characters{
         System.out.println("I am an orc");
     }
 
-
 }
